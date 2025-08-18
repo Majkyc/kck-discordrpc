@@ -2,7 +2,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Kuciik-Scripts'
+author 'Kuciik Scripts'
 description 'KCK_DiscordRPC For FiveM'
 version '2.0.0'
 
